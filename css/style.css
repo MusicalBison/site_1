@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(192, 146, 101);
+}
+body .wrapper {
+  background-color: rgb(220, 182, 133);
+  width: 50vh;
+  height: 50vh;
+}
